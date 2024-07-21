@@ -1,1 +1,1 @@
-# openai-api-for-python
+# openai-api-projects
