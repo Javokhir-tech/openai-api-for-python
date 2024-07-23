@@ -12,8 +12,6 @@ source env/bin/activate
 
 ## [get an key](https://platform.openai.com/account/api-keys)
 
-`export OPENAI_API_KEY=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`
-
 ## Installation:
 
 ### install requirements :
