@@ -10,8 +10,6 @@ python -m venv env
 source env/bin/activate
 ```
 
-## [get an key](https://platform.openai.com/account/api-keys)
-
 ## Installation:
 
 ### install requirements :
